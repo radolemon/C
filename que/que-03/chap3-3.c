@@ -15,6 +15,7 @@
 
 int main(void) {
     int integer;
+    char test = "aaaa";
 
     printf("整数を入力：");  scanf("%d", &integer);
 
