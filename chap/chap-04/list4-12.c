@@ -5,11 +5,11 @@ int main(void) {
 
     printf("正の整数を入力せよ："); scanf("%d", &no);
 
-    while (no >= 0) {
-        printf("%d ", no);
-        no--;
+    for (int i = no; i >= 0; i--) {
+        printf("%d ", i);
     }
 
-    printf("\n");
+    putchar('\n');
+
     return 0;
 }
