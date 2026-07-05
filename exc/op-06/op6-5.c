@@ -11,10 +11,10 @@ int sumup(int n) {
 }
 
 int main(void) {
-    int a;
+    int n;
 
-    printf("整数："); scanf("%d", &a);
-    printf("1なら%dまでの全整数の和は%dです。\n", a, sumup(a));
+    printf("整数："); scanf("%d", &n);
+    printf("1なら%dまでの全整数の和は%dです。\n", n, sumup(n));
 
     return 0;
 }
