@@ -1,3 +1,21 @@
 {
-    "C_Cpp.dimInactiveRegions": false
+    "C_Cpp.dimInactiveRegions": false,
+    "C_Cpp.default.compilerPath": "C:/mingw64/bin/gcc.exe",
+    "cSpell.words": [
+        "atof",
+        "atoi",
+        "hyoka",
+        "intary",
+        "maxmin",
+        "paaa",
+        "scanf",
+        "stdlib",
+        "strcat",
+        "strcmp",
+        "strcpy",
+        "strncat",
+        "strncpy",
+        "Uejobi"
+    ],
+    "codic.case": "PascalCase"
 }
