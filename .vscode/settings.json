@@ -2,6 +2,7 @@
     "C_Cpp.dimInactiveRegions": false,
     "C_Cpp.default.compilerPath": "C:/mingw64/bin/gcc.exe",
     "cSpell.words": [
+<<<<<<< HEAD
         "atof",
         "atoi",
         "hyoka",
@@ -18,4 +19,11 @@
         "Uejobi"
     ],
     "codic.case": "PascalCase"
+=======
+        "hyoka",
+        "maxmin",
+        "paaa",
+        "scanf"
+    ]
+>>>>>>> a5fe0fb5f43f1fd26c9cf459653e6e4ed76737a4
 }
